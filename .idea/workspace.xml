@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7e34944-fcf7-4b49-9441-1d855c2da248" name="Default" comment="提交测试" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="gmall_study@localhost" type="e3449647:DbNodeDescriptor" />
+      </path>
+      <path>
+        <item name="" type="eadb38e5:DatabaseStructure$Root" />
+        <item name="gmall_study@localhost" type="e3449647:DbNodeDescriptor" />
+        <item name="gmall_study" type="e3449647:DbNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>search.gmall.com</find>
+      <find>addto</find>
+      <find>getDomainName</find>
+      <find>itemForm</find>
+      <find>omsCartItems</find>
+      <find>结算</find>
+      <find>登录</find>
+      <find>submitLogin</find>
+      <find>err</find>
+      <find>BasicErrorController</find>
+      <find>error</find>
+      <find>memberId</find>
+      <find>paramMap</find>
+      <find>httpPost</find>
+      <find>list</find>
+      <find>忘记密码</find>
+      <find>toTrade</find>
+      <find>submitButton</find>
+      <find>orderForm</find>
+      <find>receiveAddressId</find>
+      <find>umsMember</find>
+      <find>type</find>
+      <find>paymentButton</find>
+      <find>paymentForm</find>
+      <find>ActiveMQConnectionFactory</find>
+      <find>connection</find>
+      <find>getWareSkuMap</find>
+      <find>wareOrderTask</find>
+      <find>save</find>
+      <find>send</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Applications\others\apache-maven-3.2.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwCc4jr1QlWhBCK0vGSFAV98aZ" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>AOP</id>
+          </State>
+          <State>
+            <id>Abstraction issuesJava</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JBoss Seam issues</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Less</id>
+          </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="au&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java&#10;search&#9;PSI&#9;JAVA://com.atguigu.gmall.search.service.impl.SearchServiceImpl&#10;skuSer&#9;PSI&#9;JAVA://com.atguigu.gmall.manage.service.impl.SkuServiceImpl&#10;order&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-order-web/src/main/java/com/atguigu/gmall/order/controller/OrderController.java&#10;pay&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-payment/src/main/java/com/atguigu/gmall/payment/service/impl/PaymentServiceImpl.java&#10;orderSer&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java&#10;MessageListener&#9;PSI&#9;JAVA://org.springframework.jms.listener.adapter.MessageListenerAdapter&#10;index&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-payment/src/main/resources/templates/index.html&#10;auth&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-web-util/src/main/java/com/atguigu/gmall/interceptors/AuthInterceptor.java&#10;passport&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/PassportController.java&#10;Sku&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/service/impl/SkuServiceImpl.java&#10;o&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-order-service/src/main/java/com/atguigu/gmall/order/service/impl/OrderServiceImpl.java&#10;user&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;userser&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;cartcon&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;userS&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;UserServiceI&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;cartList&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/templates/cartList.html&#10;um&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-api/src/main/java/com/atguigu/gmall/bean/UmsMember.java&#10;index.&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-passport-web/src/main/resources/templates/index.html&#10;item&#9;PSI&#9;JAVA://com.atguigu.gmall.item.controller.ItemController&#10;index.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-passport-web/src/main/resources/templates/index.html&#10;testJ&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-web-util/src/main/java/com/atguigu/gmall/util/TestJwt.java&#10;cart&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;BasicErrorController&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.BasicErrorController&#10;err&#9;FILE&#9;jar://C:/Program Files/jdk1.8.0_74/src.zip!/java/lang/Override.java&#10;userSer&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user-service/src/main/java/com/atguigu/gmall/user/service/impl/UserServiceImpl.java&#10;UserSer&#9;PSI&#9;JAVA://com.atguigu.gmall.user.service.impl.UserServiceImpl&#10;passpor&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/PassportController.java&#10;cartSer&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-service/src/main/java/com/atguigu/gmall/cart/service/impl/CartServiceImpl.java&#10;cartLis&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/templates/cartList.html&#10;cartListInn&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/templates/cartListInner.html&#10;cartLi&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/templates/cartList.html&#10;cartc&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;cartContr&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/java/com/atguigu/gmall/cart/controller/CartController.java&#10;cartlist&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/templates/cartListInner.html&#10;oms&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-api/src/main/java/com/atguigu/gmall/bean/OmsCartItem.java&#10;succe&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-cart-web/src/main/resources/static/success.html&#10;item.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-item-web/src/main/resources/templates/item.html&#10;catalog&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-search-web/src/main/resources/static/index/js/catalogLoader.js&#10;list.html&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-search-web/src/main/resources/templates/list.html&#10;attrser&#9;PSI&#9;JAVA://com.atguigu.gmall.manage.service.impl.AttrServiceImpl&#10;list&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-search-web/src/main/resources/templates/list.html&#10;list.&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-search-web/src/main/resources/templates/list.html&#10;pms&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSearchSkuInfo.java&#10;js.js&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-item-web/src/main/resources/static/js/js.js&#10;skuinfo&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-api/src/main/java/com/atguigu/gmall/bean/PmsSkuInfo.java&#10;ran&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user/src/main/java/com/atguigu/gmall/user/controller/RandomPeople.java&#10;pmsskuI&#9;PSI&#9;JAVA://com.atguigu.gmall.bean.PmsSkuImage&#10;rando&#9;FILE&#9;file://D:/Applications/workSpaces/gmall0105/gmall-user/src/main/java/com/atguigu/gmall/user/controller/RandomPeople.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-search-web\src\main\resources\static\error" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-api\src\main\java\com\atguigu\gmall\bean" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-payment\src\main\resources\templates" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-payment\src\main\resources\static" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-order-web\src\main\resources\templates" />
+      <recent name="D:\Applications\workSpaces\gmall0105\gmall-order-web\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall.payment.test" />
+      <recent name="com.atguigu.gmall.gmallredissontest.redissonTest" />
+      <recent name="com.atguigu.gmall.service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.atguigu.gmall.payment.mapper" />
+      <recent name="com.atguigu.gmall.service" />
+      <recent name="com.atguigu.gmall.order.mapper" />
+      <recent name="com.atguigu.gmall.annotations" />
+      <recent name="com.atguigu.gmall.cart.mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GmallSeckillApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="FengJie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.test.FengJie" />
+      <module name="gmall-payment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMq" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.test.TestMq" />
+      <module name="gmall-payment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMqTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.test.TestMqTopic" />
+      <module name="gmall-payment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZhenGuo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.test.ZhenGuo" />
+      <module name="gmall-payment" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPaymentApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gmall-payment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.payment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.gmall.payment" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.gmall.payment.GmallPaymentApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallCartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallCartWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-cart-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallCartWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallItemWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-item-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallItemWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallManageServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallManageWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-manage-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.manage.GmallManageWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallOrderWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-order-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallOrderWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPassportWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-passport-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.passport.GmallPassportWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallPaymentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-payment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallPaymentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallRedissonTestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="gmall-redisson-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallRedissonTestApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.search.GmallSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSearchWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-search-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSearchWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallSeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallSeckillApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.GmallUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.GmallUserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GmallUserWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gmall-user-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.user.GmallUserWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GwareManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gware-manage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.GwareManageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestMq" />
+      <item itemvalue="Application.FengJie" />
+      <item itemvalue="Application.TestMqTopic" />
+      <item itemvalue="Application.ZhenGuo" />
+      <item itemvalue="JUnit.GmallPaymentApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+      <item itemvalue="Spring Boot.GmallUserApplication" />
+      <item itemvalue="Spring Boot.GmallUserServiceApplication" />
+      <item itemvalue="Spring Boot.GmallUserWebApplication" />
+      <item itemvalue="Spring Boot.GmallManageServiceApplication" />
+      <item itemvalue="Spring Boot.GmallManageWebApplication" />
+      <item itemvalue="Spring Boot.GmallItemWebApplication" />
+      <item itemvalue="Spring Boot.GmallRedissonTestApplication" />
+      <item itemvalue="Spring Boot.GmallSearchWebApplication" />
+      <item itemvalue="Spring Boot.GmallSearchServiceApplication" />
+      <item itemvalue="Spring Boot.GmallCartWebApplication" />
+      <item itemvalue="Spring Boot.GmallCartServiceApplication" />
+      <item itemvalue="Spring Boot.GmallPassportWebApplication" />
+      <item itemvalue="Spring Boot.GmallOrderWebApplication" />
+      <item itemvalue="Spring Boot.GmallOrderServiceApplication" />
+      <item itemvalue="Spring Boot.GmallPaymentApplication" />
+      <item itemvalue="Spring Boot.GwareManageApplication" />
+      <item itemvalue="Spring Boot.GmallSeckillApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GmallPaymentApplicationTests.contextLoads" />
+        <item itemvalue="Application.ZhenGuo" />
+        <item itemvalue="Application.TestMqTopic" />
+        <item itemvalue="Application.TestMq" />
+        <item itemvalue="Application.FengJie" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7e34944-fcf7-4b49-9441-1d855c2da248" name="Default" comment="" />
+      <created>1558493327905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558493327905</updated>
+      <workItem from="1558493329099" duration="4092000" />
+      <workItem from="1558497956567" duration="10782000" />
+      <workItem from="1558658740838" duration="13860000" />
+      <workItem from="1558684570664" duration="3624000" />
+      <workItem from="1558713073396" duration="11000" />
+      <workItem from="1558746171985" duration="12768000" />
+      <workItem from="1558917941757" duration="13476000" />
+      <workItem from="1559003894593" duration="15340000" />
+      <workItem from="1559062092877" duration="169000" />
+      <workItem from="1559091059072" duration="15507000" />
+      <workItem from="1559263844009" duration="111000" />
+      <workItem from="1559263962988" duration="601000" />
+      <workItem from="1559265735769" duration="17571000" />
+      <workItem from="1559349946718" duration="14461000" />
+      <workItem from="1559522570133" duration="2878000" />
+      <workItem from="1559609209353" duration="17345000" />
+      <workItem from="1559694982257" duration="20970000" />
+      <workItem from="1559781322813" duration="19560000" />
+      <workItem from="1560012970441" duration="2692000" />
+      <workItem from="1560133631590" duration="8913000" />
+      <workItem from="1560151461933" duration="19000" />
+      <workItem from="1560151867382" duration="5986000" />
+      <workItem from="1560165122594" duration="52000" />
+      <workItem from="1560214890771" duration="17314000" />
+      <workItem from="1560241117095" duration="22000" />
+      <workItem from="1560241151319" duration="11470000" />
+      <workItem from="1560300142297" duration="17339000" />
+      <workItem from="1560473639917" duration="22542000" />
+      <workItem from="1560559868730" duration="18819000" />
+      <workItem from="1560587336171" duration="1660000" />
+      <workItem from="1560706866091" duration="10000" />
+      <workItem from="1560732161617" duration="16735000" />
+      <workItem from="1560818404735" duration="20854000" />
+      <workItem from="1560905259579" duration="2117000" />
+      <workItem from="1560909365505" duration="233000" />
+      <workItem from="1560909681656" duration="461000" />
+      <workItem from="1560910241371" duration="8153000" />
+      <workItem from="1589533867553" duration="6482000" />
+      <workItem from="1590210267658" duration="233000" />
+      <workItem from="1590210526716" duration="510000" />
+      <workItem from="1590211059827" duration="1541000" />
+    </task>
+    <task id="LOCAL-00001" summary="提交测试">
+      <created>1558493903552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558493903552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="GmallPaymentApplicationTests_contextLoads - 2019.06.17 at 14h 55m 56s.xml">
+      <configuration name="GmallPaymentApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 11h 39m 22s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 14h 14m 56s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 15h 58m 59s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 16h 00m 14s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 16h 03m 16s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.04 at 16h 05m 09s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.05 at 15h 43m 33s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_contextLoads - 2019.06.05 at 15h 50m 04s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GmallSearchServiceApplicationTests_put - 2019.06.04 at 16h 01m 37s.xml">
+      <configuration name="GmallSearchServiceApplicationTests.put" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交测试" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="93" key="#Project_Structure" timestamp="1589595908191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="93" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1589595908191" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590211077799">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590211077799" />
+    <state width="1272" height="184" key="GridCell.Tab.0.bottom" timestamp="1590211036906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="184" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590211036906" />
+    <state width="1272" height="184" key="GridCell.Tab.0.center" timestamp="1590211036906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="184" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590211036906" />
+    <state width="1272" height="184" key="GridCell.Tab.0.left" timestamp="1590211036906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="184" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590211036906" />
+    <state width="1272" height="184" key="GridCell.Tab.0.right" timestamp="1590211036906">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1272" height="184" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590211036906" />
+    <state x="540" y="253" key="IDE.errors.dialog" timestamp="1590210355431">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="253" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590210355431" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1590210276277">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590210276277" />
+    <state x="790" y="310" key="svn.repositoryBrowser" timestamp="1590210317059">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="310" key="svn.repositoryBrowser/0.0.1920.1040@0.0.1920.1040" timestamp="1590210317058" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-manage-service/src/main/java/com/atguigu/gmall/manage/redissonTest/RedissonController.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-search-service/src/test/java/com/atguigu/gmall/search/GmallSearchServiceApplicationTests.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/TestOauth2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/TestOauth2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gmall-passport-web/src/main/java/com/atguigu/gmall/passport/controller/TestOauth2.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
